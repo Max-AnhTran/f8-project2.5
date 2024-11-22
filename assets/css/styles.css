@@ -519,3 +519,28 @@ h2.title {
     background: #1ebfc1;
     border-radius: 99px;
 }
+
+/* STATS */
+
+.stats {
+    padding: 265px 0;
+}
+
+.stats .content {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    text-align: center;
+}
+
+.stats strong {
+    font-size: 6.2rem;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.stats .desc {
+    color: #767e7e;
+    font-size: 1.8rem;
+    font-weight: 400;
+}
