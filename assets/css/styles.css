@@ -707,3 +707,69 @@ h2.title {
 .ready .btn {
     margin-left: 410px;
 }
+
+/* FOOTER */
+
+.footer {
+    padding: 130px 0 50px;
+}
+
+.footer .columns {
+    display: flex;
+}
+
+.footer .columns .list {
+    margin-left: 12.3%;
+}
+
+.footer .columns .socials {
+    margin-left: auto;
+}
+
+.footer h3.title {
+    color: #2e2e2e;
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+.footer .list ul {
+    margin-top: 26px;
+}
+
+.footer .list ul li:not(:first-child) {
+    margin-top: 19px;
+}
+
+.footer .list ul a {
+    color: #535353;
+    font-size: 1.6rem;
+    font-weight: 400;
+}
+
+.footer .list ul a:hover {
+    text-decoration: underline;
+}
+
+.footer .socials .row {
+    align-items: center;
+    margin-top: 18px;
+}
+
+.footer .socials .row a {
+    margin-left: 9px;
+    color: #535353;
+    font-size: 1.6rem;
+    font-weight: 400;
+}
+
+.footer .socials .row a:hover {
+    color: #0d0d0d;
+}
+
+.footer .copyright {
+    margin-top: 80px;
+    color: #b0b5b4;
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-align: center;
+}
