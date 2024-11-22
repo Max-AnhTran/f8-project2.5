@@ -680,3 +680,30 @@ h2.title {
     top: 374px;
     right: 33px;
 }
+
+/* READY */
+
+.ready {
+    padding: 76px 0 88px;
+    background: #def6f5;
+}
+
+.ready .content {
+    display: flex;
+    align-items: center;
+}
+
+.ready .title {
+    color: #070707;
+}
+
+.ready .desc {
+    margin-top: 18px;
+    color: #767e7e;
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+
+.ready .btn {
+    margin-left: 410px;
+}
